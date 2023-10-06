@@ -11,3 +11,4 @@ WITH raw_data (id, column_a, column_b) AS (
  (6, 3, 'D')
 )
 SELECT * FROM raw_data;
+
